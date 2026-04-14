@@ -1,0 +1,20 @@
+[
+  {
+    "id": "agent_001",
+    "message": "Quanto fa (5^2 + sqrt(256)) / 3?",
+    "expected_tool_sequence": ["calculator"],
+    "max_iterations": 3
+  },
+  {
+    "id": "agent_002",
+    "message": "Che tempo fa a Torino adesso?",
+    "expected_tool_sequence": ["get_weather"],
+    "max_iterations": 4
+  },
+  {
+    "id": "agent_003",
+    "message": "Chi era Alan Turing e in che anno è nato?",
+    "expected_tool_sequence": ["search_wikipedia"],
+    "max_iterations": 5
+  }
+]

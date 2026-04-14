@@ -1,0 +1,15 @@
+Ciao [Nome],
+
+ho visto il ruolo [Titolo ruolo] e mi sembra molto allineato a quello che sto costruendo ora.
+
+Breve contesto su di me:
+- background da backend/software architect
+- stack AI end-to-end con FastAPI, LLM, RAG, agent e evaluation
+- attenzione a deploy, logging, metriche e Docker
+
+Repo principale: [link GitHub]
+
+Mi piacerebbe capire se il mio profilo può essere utile al team e come state usando LLM/AI oggi.
+
+Grazie,
+[Nome Cognome]

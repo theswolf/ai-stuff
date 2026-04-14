@@ -1,0 +1,14 @@
+Oggetto: Possibile contributo su progetti AI/LLM in [Nome Azienda]
+
+Ciao [Nome],
+
+mi chiamo [Nome Cognome] e lavoro da anni come backend/software architect.
+Negli ultimi mesi ho costruito servizi AI end-to-end con FastAPI, RAG, agent e script di valutazione.
+
+Repo principale:
+[link GitHub]
+
+Mi piacerebbe capire se ci sono ruoli o collaborazioni in cui un profilo con forte base backend + AI applicata possa essere utile.
+
+Grazie,
+[Nome Cognome]

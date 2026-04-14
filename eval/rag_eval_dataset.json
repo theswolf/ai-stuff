@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rag_001",
+    "question": "Cos'è FastAPI?",
+    "expected_keywords": ["framework", "python", "web"],
+    "expected_answer_contains": "framework",
+    "source_doc": "fastapi_guide.txt"
+  },
+  {
+    "id": "rag_002",
+    "question": "FastAPI supporta async/await?",
+    "expected_keywords": ["async", "await", "asincrono"],
+    "expected_answer_contains": "async",
+    "source_doc": "fastapi_guide.txt"
+  },
+  {
+    "id": "rag_003",
+    "question": "FastAPI supporta GraphQL?",
+    "expected_keywords": [],
+    "expected_answer_contains": "non ho informazioni",
+    "source_doc": null,
+    "is_out_of_scope": true
+  }
+]
